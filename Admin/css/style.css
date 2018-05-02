@@ -1,0 +1,12 @@
+body{
+    padding-top: 60px;
+}
+.blc{
+    color: black;
+}
+.huge{
+    font-size: 40px;
+}
+.tag-boxes .panel-primary{
+    border: 1px solid #2FA4E7;
+}

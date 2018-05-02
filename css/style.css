@@ -1,0 +1,79 @@
+body{
+    background-color: #F7F7F7;
+}
+.navbar-brand *{
+    color: white;
+}
+.jumbotron{
+    height: 200px;
+    overflow: hidden;
+}
+.jumbotron #details{
+    position: absolute;
+}
+#details{
+    color: white;
+}
+.popular{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e3e3e3;
+}
+.popular h4{
+    margin-top: 20px;
+    padding-left: 10px;
+}
+.popular p{
+    padding-left: 10px;
+}
+section .widgets{
+    margin-bottom: 20px;
+}
+.popular ul li{
+    list-style: none;
+}
+.post{
+    background-color: white;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+.post .post-date{
+    padding: 20px;
+    text-align: center;
+    border-right: 1px solid #e3e3e3;
+}
+.post .post-date .day{
+    font-size: 30px;
+    color: #24A7CF;
+}
+.post .post-date .month{
+    font-size: 15px;
+}
+.post .post-date .year{
+    font-size: 15px;
+    font-weight: 100;
+}
+.post .post-title{
+    padding: 5px 10px;
+    
+}
+nav#pagination{
+    text-align: center;
+    font-size: 15px;
+}
+.pagination > li > a{
+    padding: 10px 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    text-align: center;
+    padding-top: 10px;
+}
+.related-posts{
+    background-color: white;
+    padding: 10px;
+}
